@@ -1,0 +1,26 @@
+{
+  "name": "postcss-mrp",
+  "version": "1.0.0",
+  "description": "PostCSS plugin for my project MRP, to be used with cssnext.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymauray/postcss-mrp.git"
+  },
+  "keywords": [
+    "PostCSS",
+    "cssnext"
+  ],
+  "author": "Yannick Mauray <yannick.mauray@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ymauray/postcss-mrp/issues"
+  },
+  "homepage": "https://github.com/ymauray/postcss-mrp#readme",
+  "dependencies": {
+    "postcss": "^4.1.13"
+  }
+}
